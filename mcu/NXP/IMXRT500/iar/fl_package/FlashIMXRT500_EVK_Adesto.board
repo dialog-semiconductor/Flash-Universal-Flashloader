@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<flash_board>
+  <pass>
+    <loader>$TOOLKIT_DIR$\config\flashloader\NXP\FlashIMXRT500_EVK_Adesto.flash</loader>
+    <range>CODE 0x08000000 0x08ffffff</range>
+  </pass>
+</flash_board>
+
+
