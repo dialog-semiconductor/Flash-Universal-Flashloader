@@ -1,0 +1,19 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4_2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4_2\arm\bin\armsim2.dll" 
+
+"C:\Users\eyal\Documents\FlashLoaders\Adesto-FL\mcus\ST\STM32L5\iar\Debug_STM32L5_Nucleo_Quad\Exe\stm32l5_adesto_fl.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4_2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4_2\arm\config\debugger\ST\STM32L5xx.dmac" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4_2\arm\config\debugger\ST\STM32L5xx_DBG.dmac" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4_2\arm\config\debugger\ST\STM32L5xx_OB.dmac" 
+
+--device_macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4_2\arm\config\debugger\ST\STM32L5xx_TRACE.dmac" 
+
+
+
+

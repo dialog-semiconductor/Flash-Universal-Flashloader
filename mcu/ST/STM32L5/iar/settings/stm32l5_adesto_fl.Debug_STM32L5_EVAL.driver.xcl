@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M33.no_se" 
+
+"--fpu=None" 
+
+"-p" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\CONFIG\debugger\ST\STM32L552ZE.ddf" 
+
+"--semihosting" 
+
+"--device=STM32L552ZE" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+
