@@ -1,0 +1,21 @@
+"--endian=little" 
+
+"--cpu=Cortex-M7" 
+
+"--fpu=VFPv5_D16" 
+
+"-p" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\CONFIG\debugger\ST\STM32H7A3ZI.ddf" 
+
+"--semihosting=none" 
+
+"--device=STM32H7A3ZI" 
+
+"--multicore_nr_of_cores=1" 
+
+"--drv_tpiu_regbase=0xE00E3002" 
+
+
+
+

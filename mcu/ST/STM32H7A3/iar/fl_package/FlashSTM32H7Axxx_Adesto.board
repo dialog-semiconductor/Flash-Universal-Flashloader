@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<flash_board>
+  <pass>
+    <range>CODE 0x08000000 0x080FFFFF</range>
+    <loader>$TOOLKIT_DIR$\config\flashloader\ST\FlashSTM32H7AxxI_BANK1.flash</loader>
+  </pass>
+  <pass>
+    <range>CODE 0x08100000 0x081FFFFF</range>
+    <loader>$TOOLKIT_DIR$\config\flashloader\ST\FlashSTM32H7AxxI_BANK2.flash</loader>
+  </pass>
+  <pass>
+    <range>CODE 0x90000000 0x90FFFFFF</range>
+    <loader>$TOOLKIT_DIR$\config\flashloader\ST\FlashSTM32H7Axxx_Adesto.flash</loader>
+  </pass>
+</flash_board>
+
+
