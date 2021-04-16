@@ -1,0 +1,19 @@
+"--endian=little" 
+
+"--cpu=Cortex-M7" 
+
+"--fpu=VFPv5_D16" 
+
+"-p" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\CONFIG\debugger\NXP\MIMXRT1062xxx6A.ddf" 
+
+"--semihosting" 
+
+"--device=MIMXRT1062xxx6A" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+
