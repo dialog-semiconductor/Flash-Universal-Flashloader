@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>1570028711</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\sdk\MIMXRT685S_cm33.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\adesto\adesto_detect.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\imxrt600_adesto_fl.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\al\fhc.o</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_reset.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\sdk\fsl_flexspi.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\sdk\fsl_reset.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\sdk\fsl_clock.o</file>
+            <file>$PROJ_DIR$\..\al\adesto_lut.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\al\clock_config.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\adesto\adesto_drv.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\sdk\system_MIMXRT685S_cm33.o</file>
+            <file>$PROJ_DIR$\..\al\fhc.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader_ram.c</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_clock.c</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_power.c</file>
+            <file>$PROJ_DIR$\..\sdk\core_cm33.h</file>
+            <file>$PROJ_DIR$\FlashIMXRT6xx_RAM.icf</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_clock.h</file>
+            <file>$PROJ_DIR$\..\sdk\system_MIMXRT685S_cm33.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader.c</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_flexspi.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_stdlib.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\iar_fl\flash_loader_asm.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_reset.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\sdk\mpu_armv8.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\adesto\adesto_detect.o</file>
+            <file>$PROJ_DIR$\..\al\clock_config.c</file>
+            <file>$PROJ_DIR$\..\..\..\..\adesto\adesto_drv.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\iar_fl\flash_loader_asm.o.rsp</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_common.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\al\sys_init.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\al\adesto_lut.o</file>
+            <file>$PROJ_DIR$\..\sdk\cmsis_version.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\sdk\fsl_power.o</file>
+            <file>$PROJ_DIR$\..\al\sys_init.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\iar_fl\flash_loader.o</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_gpio.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\sdk\fsl_gpio.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader_asm.s</file>
+            <file>$PROJ_DIR$\..\sdk\MIMXRT685S_cm33_features.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\iar_fl\flash_loader_ram.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\sdk\system_MIMXRT685S_cm33.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\sdk\fsl_common.o</file>
+            <file>$PROJ_DIR$\..\sdk\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\imxrt1050_adesto_fl_import_lib.o</file>
+            <file>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\assert.h</file>
+            <file>$PROJ_DIR$\..\al\clock_config.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\..\..\..\..\adesto\adesto_defs.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_device_registers.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\imxrt600_adesto_fl.srec</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_iopctl.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_gpio.h</file>
+            <file>$PROJ_DIR$\..\sdk\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_flexspi.h</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_common.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader_extra.h</file>
+            <file>$PROJ_DIR$\..\al\fhc_defs.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\List\imxrt600_adesto_fl.map</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\..\sdk\fsl_power.h</file>
+            <file>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_config.h</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\adesto\adesto_detect.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 32</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 20 62 27 75 1 73 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\imxrt600_adesto_fl.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 55 74</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 64</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 76 59 52 6 32 12 38 11 4 37 42 26 47 9 53 7 44 40 8 13 19</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\al\adesto_lut.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 38</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 60 72 0 46 68 54 39 18 21 70 63 69 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\al\fhc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 60 72 0 46 68 54 39 18 21 70 63 69 67 65 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader_ram.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 47</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 20 62 27 75 1 73 60 78 56 71</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\sdk\fsl_clock.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 0 46 68 54 39 18 21 70 63 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\sdk\fsl_power.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 40</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 0 46 68 54 39 18 21 70 63 77 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\sdk\system_MIMXRT685S_cm33.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 13</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 30 62 75 73 0 46 68 54 39 18 63 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 42</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 62 75 73 78 56 71</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\sdk\fsl_flexspi.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 7</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 0 46 68 54 39 18 21 70 63 69 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\sdk\fsl_reset.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 8</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 0 46 68 54 39 18 21 70 63 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\al\clock_config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 11</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 58 0 46 68 54 39 18 21 70 63 77 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\adesto\adesto_drv.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 20 62 27 75 1 73 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\sdk\fsl_common.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 0 46 68 54 39 18 21 70 63 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\al\sys_init.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 58 0 46 68 54 39 18 21 70 63 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\sdk\fsl_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 44</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 51 49 48 25 28 30 57 20 61 62 27 66 75 1 73 0 46 68 54 39 18 21 70 63 67 5 31 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\..\toolchains\iar\flash_loader_asm.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 26</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 35</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\imxrt600_adesto_fl.srec</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 3</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 55 74 3</file>
+                </tool>
+            </outputs>
+        </file>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
